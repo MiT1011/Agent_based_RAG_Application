@@ -1,0 +1,6 @@
+Impliment RAG with milvus(GPU) or any local db + Nvidia embed v2
+Agent based RAG
+hyrarchical method for clustering
+hybrid search including graph, syntatic and semantic search
+finetune llm
+find some another technique for better result. 
